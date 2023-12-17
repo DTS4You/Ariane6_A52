@@ -9,15 +9,15 @@ import time
 
 
 # -----------------------------------------------------------------------------
-# Funktionen 1 - x
-pix_array_01 = [10]
-pix_array_02 = [11]
-pix_array_03 = [ 6]
-pix_array_04 = [ 3, 4]
+# Funktionen 1 - 7
+pix_array_01 = [ 0]
+pix_array_02 = [ 1]
+pix_array_03 = [ 2]
+pix_array_04 = [ 3]
 pix_array_05 = [ 2 ,5]
 pix_array_06 = [ 0, 1]
 pix_array_07 = [ 7, 8]
-# --------------------
+# mehr wird hier nicht benutzt
 pix_array_08 = [ 9]
 pix_array_09 = [16, 24]
 pix_array_10 = [19, 27]
