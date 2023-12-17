@@ -13,11 +13,11 @@ import time
 # Funktionen 1 - 7
 pix_array_01 = [ 15, 16]
 pix_array_02 = [ 13, 14]
-pix_array_03 = [ 2]
-pix_array_04 = [ 3]
-pix_array_05 = [ 2 ,5]
-pix_array_06 = [ 0, 1]
-pix_array_07 = [ 7, 8]
+pix_array_03 = [  2,  8,  3,  9]
+pix_array_04 = [  1,  7]
+pix_array_05 = [  4, 10,  5, 11]
+pix_array_06 = [  4, 10]
+pix_array_07 = [  6, 12]
 # mehr wird hier nicht benutzt
 pix_array_08 = [ 9]
 pix_array_09 = [16, 24]
