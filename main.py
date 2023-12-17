@@ -8,16 +8,16 @@ from machine import Pin, Timer                              # RaspberryPi Pico20
 from module_init import Global_Module as MyModule
 import time
 
-
+array_offset = -1
 # -----------------------------------------------------------------------------
 # Funktionen 1 - 7
-pix_array_01 = [ 15, 16]
-pix_array_02 = [ 13, 14]
-pix_array_03 = [  2,  8,  3,  9]
-pix_array_04 = [  1,  7]
-pix_array_05 = [  4, 10,  5, 11]
-pix_array_06 = [  4, 10]
-pix_array_07 = [  6, 12]
+pix_array_01 = [ 15 + array_offset, 16 + array_offset]
+pix_array_02 = [ 13 + array_offset, 14 + array_offset]
+pix_array_03 = [  2 + array_offset,  8 + array_offset,  3 + array_offset,  9 + array_offset]
+pix_array_04 = [  1 + array_offset,  7 + array_offset]
+pix_array_05 = [  4 + array_offset, 10 + array_offset,  5 + array_offset, 11 + array_offset]
+pix_array_06 = [  4 + array_offset, 10 + array_offset]
+pix_array_07 = [  6 + array_offset, 12 + array_offset]
 # mehr wird hier nicht benutzt
 pix_array_08 = [ 9]
 pix_array_09 = [16, 24]
