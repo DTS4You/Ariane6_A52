@@ -37,41 +37,41 @@ class Global_WS2812:
     seg_03_count        = 12            #  3. Ledsegment -> Anzahl
     
     seg_04_strip        = 0             #  4. Ledsegment -> Stripe      # 4. LED hinterer Teil
-    seg_04_start        = 3             #  4. Ledsegment -> Start
+    seg_04_start        = 49            #  4. Ledsegment -> Start
     seg_04_count        = 16            #  4. Ledsegment -> Anzahl
 
     seg_05_strip        = 0             #  5. Ledsegment -> Stripe      # 5. LED hinterer Teil
-    seg_05_start        = 4             #  5. Ledsegment -> Start
+    seg_05_start        = 65            #  5. Ledsegment -> Start
     seg_05_count        = 6             #  5. Ledsegment -> Anzahl
     
     seg_06_strip        = 0             #  6. Ledsegment -> Stripe      # 6. LED hinterer Teil
-    seg_06_start        = 5             #  6. Ledsegment -> Start
+    seg_06_start        = 71            #  6. Ledsegment -> Start
     seg_06_count        = 23            #  6. Ledsegment -> Anzahl
     
     # - DDB 2
 
-    seg_07_strip        = 1             #  7. Ledsegment -> Stripe      # 7. LED hinterer Teil
-    seg_07_start        = 6             #  7. Ledsegment -> Start
+    seg_07_strip        = 1             #  7. Ledsegment -> Stripe      # 1. LED hinterer Teil
+    seg_07_start        = 0             #  7. Ledsegment -> Start
     seg_07_count        = 9             #  7. Ledsegment -> Anzahl
 
-    seg_08_strip        = 1             #  8. Ledsegment -> Stripe      # 8. LED hinterer Teil
-    seg_08_start        = 7             #  8. Ledsegment -> Start
+    seg_08_strip        = 1             #  8. Ledsegment -> Stripe      # 2. LED hinterer Teil
+    seg_08_start        = 9             #  8. Ledsegment -> Start
     seg_08_count        = 28            #  8. Ledsegment -> Anzahl
     
-    seg_09_strip        = 1             #  9. Ledsegment -> Stripe      # 9. LED hinterer Teil
-    seg_09_start        = 8             #  9. Ledsegment -> Start
+    seg_09_strip        = 1             #  9. Ledsegment -> Stripe      # 3. LED hinterer Teil
+    seg_09_start        = 37            #  9. Ledsegment -> Start
     seg_09_count        = 12            #  9. Ledsegment -> Anzahl
 
-    seg_10_strip        = 1             # 10. Ledsegment -> Stripe      #10. LED hinterer Teil
-    seg_10_start        = 9             # 10. Ledsegment -> Start
+    seg_10_strip        = 1             # 10. Ledsegment -> Stripe      # 4. LED hinterer Teil
+    seg_10_start        = 49            # 10. Ledsegment -> Start
     seg_10_count        = 16            # 10. Ledsegment -> Anzahl
     
-    seg_11_strip        = 1             # 11. Ledsegment -> Stripe      #11. LED hinterer Teil
-    seg_11_start        = 10            # 11. Ledsegment -> Start
+    seg_11_strip        = 1             # 11. Ledsegment -> Stripe      # 5. LED hinterer Teil
+    seg_11_start        = 65            # 11. Ledsegment -> Start
     seg_11_count        = 6             # 11. Ledsegment -> Anzahl
 
-    seg_12_strip        = 1             # 12. Ledsegment -> Stripe      #12. LED hinterer Teil
-    seg_12_start        = 11            # 12. Ledsegment -> Start
+    seg_12_strip        = 1             # 12. Ledsegment -> Stripe      # 6. LED hinterer Teil
+    seg_12_start        = 71            # 12. Ledsegment -> Start
     seg_12_count        = 23            # 12. Ledsegment -> Anzahl
 
     # - DDB 3
