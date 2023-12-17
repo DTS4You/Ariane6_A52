@@ -1,0 +1,76 @@
+LED-Belegung Ansicht von unten.
+
+Statrt ist Bodenplatte
+
+-------------------------------------------------------------------------------
+
+Hauptstufe:
+
+Links / Rechts
+
+1. Segment	-> 9 Stück	-> DDB 1 / 2	-> Funktion 04		-> 01	->  9 Stk.
+2. Segment	-> 15 Stück	-> DDB 1 / 2	-> Funktion 03		-> 02	
+3. Segment	-> 13 Stück	-> DDB 1 / 2	-> Funktion 03		-> 02	-> 28 Stk.
+
+-------------------------------------------------------------------------------
+
+Oberstufe 1:
+
+Links / Rechsts
+
+1. Segment	-> 4 Stück	-> DDB 1 / 2	-> Funktion 03		-> 03
+2. Segment	-> 8 Stück	-> DDB 1 / 2	-> Funktion 03		-> 03	-> 12 Stk.
+3. Segment	-> 16 Stück 	-> DDB 1 / 2	-> Funktion 06 , 05	-> 04	-> 16 Stk.
+4. Segment	-> 4 Stück	-> DDB 1 / 2	-> Funktion 05		-> 05
+5. Segment	-> 2 Stück	-> DDB 1 / 2	-> Funktion 05		-> 05	->  6 Stk.
+
+-------------------------------------------------------------------------------
+
+Spitze:
+
+Links
+
+1. Segment	-> 11. Stück	-> DDB 1 / 2	-> Funktion 07		-> 06	
+2. Segment	-> 12. Stück	-> DDB 1 / 2	-> Funktion 07		-> 06	-> 23 Stk.
+
+-------------------------------------------------------------------------------
+
+Booster 1:
+
+Links / Rechts
+
+1. Segment	-> 7 Stück	-> DDB 3 / 4	-> Funktion 02		-> 01
+2. Segment	-> 24 Stück	-> DDB 3 / 4	-> Funktion 02		-> 01
+3. Segment	-> 20 Stück	-> DDB 3 / 4	-> Funktion 02		-> 01	-> 51 Stk.
+
+-------------------------------------------------------------------------------
+
+Booster 2:
+
+Links / Rechts
+
+1. Segment 	-> 25 Stück	-> DDB 5 / 6	-> Funktion 01		-> 01	-> 25 Stk.
+
+-------------------------------------------------------------------------------
+
+###############################################################################
+
+Funktion:
+
+01 -> P120C Booster (Equipped Solid Rockets)
+
+02 -> Flüssigtreibstoff-Booster
+
+03 -> Hauptstufe (Lower Liquid Propulsion Module)
+
+04 -> Triebwerk Vulcain 2.1
+
+05 -> Oberstufe (Upper Liquid Propulsion Module)
+
+06 -> Triebwerk Vinci
+
+07 -> Nutzlast
+
+-------------------------------------------------------------------------------
+
+###############################################################################
