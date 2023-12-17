@@ -96,7 +96,7 @@ class Global_WS2812:
 
     seg_16_strip        = 5             # 16. Ledsegment -> Stripe      # 4. LED linker Teil
     seg_16_start        = 0             # 16. Ledsegment -> Start
-    seg_16_count        = 25             # 16. Ledsegment -> Anzahl
+    seg_16_count        = 25            # 16. Ledsegment -> Anzahl
     
     # -------------------------------------------------------------------------------------------------
 
