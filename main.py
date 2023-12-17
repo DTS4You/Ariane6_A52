@@ -12,7 +12,7 @@ import time
 # -----------------------------------------------------------------------------
 # Funktionen 1 - 7
 pix_array_01 = [ 15, 16]
-pix_array_02 = [ 1]
+pix_array_02 = [ 13, 14]
 pix_array_03 = [ 2]
 pix_array_04 = [ 3]
 pix_array_05 = [ 2 ,5]
